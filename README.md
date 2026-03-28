@@ -18,13 +18,12 @@ Predicting customer churn for a telecommunications company using a synthetic ver
 |-------|-----|
 | LightGBM (default) | 0.9159 |
 | XGBoost (default) | 0.9160 |
-| CatBoost (default) | 0.9156 |
 | XGBoost (Optuna-tuned) | 0.9191 |
 | Stacking Ensemble | TBD |
 
 ## Tech Stack
 
-Python, pandas, NumPy, scikit-learn, LightGBM, XGBoost, CatBoost, Optuna
+Python, pandas, NumPy, scikit-learn, LightGBM, XGBoost, Optuna
 
 ## Files
 
