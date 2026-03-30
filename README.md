@@ -50,4 +50,4 @@ Python, pandas, NumPy, scikit-learn, LightGBM, XGBoost, Optuna, SciPy, Matplotli
 ## Links
 
 - [Kaggle Competition](https://www.kaggle.com/competitions/playground-series-s6e3)
-- [Kaggle Notebook](https://www.kaggle.com/amiraslebik)
+- [Kaggle Notebook]([https://www.kaggle.com/amiraslebik](https://www.kaggle.com/code/amiraslebik/churn-knn-optuna-ensembles-top-21))
